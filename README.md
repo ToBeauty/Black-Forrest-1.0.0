@@ -1,6 +1,6 @@
 # Black-Forrest-1.0.0 Deutsch/English                               
 
-Our discord in german and english:https://discord.gg/qQ6zyKH2Ee
+Our discord in german and english:  https://discord.gg/qQ6zyKH2Ee
 
 Historische Stätten in 7 Days: https://de.wikipedia.org/wiki/Petra_(Jordanien) und https://de.wikipedia.org/wiki/Evenburg
 Dieses Mod bringt POIs nach 7 Days, die tatsächlichen historischen Stätten nachgebaut sind. Dazu ein paar Phantasiebauten, zum Beispiel das Schwert "Excalibur".
