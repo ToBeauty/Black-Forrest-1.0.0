@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Black Forrest" Logo="https://github.com/ToBeauty/Black-Forrest-1.0.0/blob/main/BF.jpg" Description="Your end is near.">
+		<Server Name="Black Forrest" Logo="https://github.com/ToBeauty/Black-Forrest-1.0.0/blob/main/BF.jpg">
+			<Description>
+
+			</Description>
+			<Author>ToBeauty</Author>
+			<Version>.</Discord>
+			<Donate>.</Donate>
+			<Downloads>
+				<Download>https://github.com/ToBeauty/Black-Forrest-1.0.0</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
