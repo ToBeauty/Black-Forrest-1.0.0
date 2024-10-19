@@ -17,11 +17,11 @@ Die neuen POIs bringen neben Herausforderungen - sie sind mit Zombie-Spawns gesp
 Liste der zum Black Forrest gehörenden Modlets:
 
 - POIs "Petra", "Evenburg", "Excalibur", "Cave Tower", "Irrgarten", "Chicken Run" von "Antipas"
-- AGF-V1-HUDPlus-1Main-v2.0.0 von "AuroraGigglesFairy"
+- AGF-V1-HUDPlus-1Main-v2.0.0 von "AuroraGiggleFairy"
 - Server side Zombies Plus von "Arramus" und "Oakraven"
 - Elite-Zombies von "BlackRabbit"
 - Wanderhorden-Boost von "Antipas"
-- KHA21-HPBars + KHV1-60BBM  von "KhaineGB"
+- KHA21-HPBars + KHV1-60BBM  von "Khaine"
 - Radios von "BlueBerryBlue"
 - Thompson SMG von "ToBeauty"
 
@@ -39,11 +39,11 @@ In addition to challenges - they are peppered with zombie spawns - the new POIs 
 List of modlets belonging to the Black Forrest:
 
 - POIs “Petra”, “Evenburg”, “Excalibur”, “Cave Tower”, “Maze”, “Chicken Run” from “Antipas”
-- AGF-V1-HUDPlus-1Main-v2.0.0 from “AuroraGigglesFairy”
+- AGF-V1-HUDPlus-1Main-v2.0.0 from “AuroraGiggleFairy”
 - Server side Zombies Plus from “Arramus” and “Oakraven”
 - Elite Zombies from “BlackRabbit”
 - Wanderhorde boost from “Antipas”
-- KHA21-HPBars + KHV1-60BBM from “KhaineGB”
+- KHA21-HPBars + KHV1-60BBM from “Khaine”
 - Radios from “BlueBerryBlue”
 - Thompson SMG from “ToBeauty”
 
