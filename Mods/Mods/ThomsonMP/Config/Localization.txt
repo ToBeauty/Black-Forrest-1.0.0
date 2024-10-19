@@ -1,3 +1,0 @@
-Key,English,German
-ThompsonSMG,"Thomson Submachinegun","Thompson MP"
-ThompsonSMGDesc,"A Thompson Submachinegun rechamber in .44 magnum. \nRepair with a Repair Kit.\nScrap to Pistol Parts.","Eine 44.Thompson MP. \nWird mit einem Reperaturkit repariert.\nZerlegt in Pistolenteile."
